@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16355" started-at="2020-09-23T12:57:27 IST" finished-at="2020-09-23T12:57:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16355" started-at="2020-09-23T12:57:27 IST" finished-at="2020-09-23T12:57:43 IST">
+      <class name="testCases.To_Get_TripCode">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:testCases.To_Get_TripCode@1ea5ab4]" name="browserLaunch" is-config="true" duration-ms="12066" started-at="2020-09-23T12:57:15 IST" finished-at="2020-09-23T12:57:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="toFillBookingDetails()[pri:0, instance:testCases.To_Get_TripCode@1ea5ab4]" name="toFillBookingDetails" duration-ms="15618" started-at="2020-09-23T12:57:27 IST" finished-at="2020-09-23T12:57:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toFillBookingDetails -->
+        <test-method status="PASS" signature="togetTripCode()[pri:1, instance:testCases.To_Get_TripCode@1ea5ab4]" name="togetTripCode" duration-ms="681" started-at="2020-09-23T12:57:43 IST" finished-at="2020-09-23T12:57:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- togetTripCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.To_Get_TripCode@1ea5ab4]" name="tearDown" is-config="true" duration-ms="545" started-at="2020-09-23T12:57:43 IST" finished-at="2020-09-23T12:57:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.To_Get_TripCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

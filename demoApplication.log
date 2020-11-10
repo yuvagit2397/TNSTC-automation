@@ -1,0 +1,11 @@
+
+
+[main] INFO  preRequisites.BasicSetUp  - Chrome browser opening
+[main] INFO  testCases.To_Get_TripCode  - Entering from city
+[main] INFO  testCases.To_Get_TripCode  - Entering to city
+[main] INFO  testCases.To_Get_TripCode  - Clicking search button 
+[main] INFO  testCases.To_Get_TripCode  - Getting tripcode
+[main] INFO  testCases.To_Get_TripCode  - Got trip code
+[main] INFO  testCases.To_Get_TripCode  - TestCase one succesfully completed
+[main] INFO  preRequisites.BasicSetUp  - Closing the driver
+[main] INFO  preRequisites.BasicSetUp  - DONE
